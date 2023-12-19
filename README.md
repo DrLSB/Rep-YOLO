@@ -3,9 +3,9 @@
 Implementation of paper - Rep-YOLO: an efficient detection method for mine personnel
 
 
-![image](coal_mine_figure\Rep-1.png)
-![image](coal_mine_figure\Rep-2.png)
-![image](coal_mine_figure\Rep-3.png)
+![image](coal_mine_figure/Rep-1.png)
+![image](coal_mine_figure/Rep-2.png)
+![image](coal_mine_figure/Rep-3.png)
 
 # Requirements
 ```
